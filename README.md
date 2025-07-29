@@ -40,7 +40,7 @@ product-return-analysis/
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard-preview.png)
+![Dashboard Screenshot](images\Screenshot 2025-07-25 021823.png")
 
 ## Key Insights
 
