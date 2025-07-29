@@ -38,10 +38,6 @@ product-return-analysis/
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Screenshot]("https://github.com/Aryankumarsah/Product-Return-Analysis/blob/main/images/Screenshot%202025-07-25%20021823.png?raw=true")
-
 ## Key Insights
 
 - Most common return reason: **Damaged Item**
